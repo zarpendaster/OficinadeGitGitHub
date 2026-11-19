@@ -1,4 +1,4 @@
-# Projeto: Organizador de Estudos
+# Projeto: Organizador de Estudos 
 
 Um projeto fictício para praticar a escrita de documentação com
 Markdown.
